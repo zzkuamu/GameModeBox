@@ -1,5 +1,8 @@
 # 🎮 游戏模式盒 GameModeBox
 
+> ⚠️ **许可证：PolyForm Noncommercial 1.0.0 —— 允许自用、允许改着玩，但禁止任何形式的商用。**
+> Required Notice: Copyright zzkuamu 2026 https://github.com/zzkuamu/GameModeBox
+
 给 **三角洲行动 / 暗区突围无限 / 无畏契约** 做的 Windows 游戏模式开关：
 双击打开 → 选游戏 → 进入游戏模式；**工具开着就一直生效，关闭工具（或点 ✕）= 关闭游戏模式并把所有修改逐项还原**。
 
@@ -98,4 +101,7 @@ docs/                  截图
 
 ## License
 
-见 [LICENSE](LICENSE)。
+**PolyForm Noncommercial 1.0.0**（全文见 [LICENSE](LICENSE)）：自用和二次开发自由，**禁止商用**。
+
+> 注：GitHub 侧栏不会识别这份许可证（会显示 Other），这是平台限制，以本文件为准。
+> Required Notice: Copyright zzkuamu 2026 https://github.com/zzkuamu/GameModeBox
